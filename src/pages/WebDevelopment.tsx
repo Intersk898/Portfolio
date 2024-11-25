@@ -25,7 +25,7 @@ const WebDevelopment = () => {
         "Modern UI components",
         "Clean and maintainable code structure"
       ],
-      link: "https://intersk898.github.io/Portfolio/"
+      link: "https://interskportfolio.netlify.app"
     },
     {
       title: "Minesweeper",
